@@ -35,6 +35,9 @@ basicCN + geom_boxplot()
 basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='errorbar') + labs(title="Fancy notch boxplot \n with 2 lines")
 ```
 
+The box plot with fancy notch shows peoples seats from front, middle and back. Its observed that people who sit in the back on average drink far more than people who sit in the middle and front. People in the middle drink more than those in the front.  
+
+
 ## Numerical Summarys 
 
 ## Inferential Tests
