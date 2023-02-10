@@ -40,6 +40,13 @@ The box plot with fancy notch shows peoples seats from front, middle and back. I
 
 ## Numerical Summarys 
 
+```{r}
+favstats(alcohol~Seat,data=davisdata)
+```
+
+The numerical data shows that on average there is a 4:0:1 ratio of people who drink that sit in back:front:middle. The average number of drinks for people who sit in the the back is 9 which is 3x larger than the average of the people sitting in the middle and is 9x the average of people who sit in the front.
+
+
 ## Inferential Tests
 
 ## Conclusions
