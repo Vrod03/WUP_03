@@ -49,6 +49,14 @@ The numerical data shows that on average there is a 4:0:1 ratio of people who dr
 
 ## Inferential Tests
 
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+
+Since the p value is 0.000116 this exemplifies that the possibility of there being no difference in the amount people drink regarding there seating position is very unlikely.
+
+
 ## Conclusions
 
 
