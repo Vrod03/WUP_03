@@ -65,4 +65,4 @@ There isn't any difference between front and the middle. The only difference is 
 
 ## Conclusions
 
-
+In conclusion the numerical data, inferential data and tukey graph all conclude that people who are seated in the back consume significantly more alcohol than those who sit in the middle and front. The numerical data showed a 9:3:1 ratio from back to front in the amount of drinks consumed. The inferential data confirmed this idea with a very small p value that dismissed the theory of there being no difference in all 3 rows. The Tukey data showed that the middle drank equal amount as the front.
