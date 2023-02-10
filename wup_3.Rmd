@@ -57,6 +57,12 @@ summary.aov(model1)
 Since the p value is 0.000116 this exemplifies that the possibility of there being no difference in the amount people drink regarding there seating position is very unlikely.
 
 
+```{r}
+plot(TukeyHSD(model1))
+```
+
+There isn't any difference between front and the middle. The only difference is between the back and the middle and the front and the back. This is known because the dotted line on 0 only goes through the confidence interval for front and middle. This does not happen for the other 2 categories.
+
 ## Conclusions
 
 
